@@ -2,13 +2,13 @@
 
   <img src="./ic_logo_racetrix.png" width="160" alt="Racetrix Logo" style="border-radius: 20px;">
 
-  <br><br>
+  <br>
 
   <a href="https://racetrix.github.io/docs">
     <img src="https://img.shields.io/badge/🌐_Visit_Official_Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" height="35">
   </a>
 
-  <br><br>
+  <br>
 
   <h1>Racetrix Team</h1>
   <p style="font-size: 1.1em; max-width: 600px;">
