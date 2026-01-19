@@ -20,17 +20,11 @@
   <br>
 
   <p>
-    <a href="https://github.com/racetrix/RacetrixPro" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/📱_Android_App-black?style=flat-square&logo=android&logoColor=3DDC84" height="25">
-    </a>
+    <a href="https://github.com/racetrix/RacetrixPro" style="text-decoration: none;"><img src="https://img.shields.io/badge/📱_Android_App-black?style=flat-square&logo=android&logoColor=3DDC84" height="25"></a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/racetrix/ESP32BNOGPS" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/📟_ESP32_Firmware-black?style=flat-square&logo=espressif&logoColor=white" height="25">
-    </a>
+    <a href="https://github.com/racetrix/ESP32BNOGPS" style="text-decoration: none;"><img src="https://img.shields.io/badge/📟_ESP32_Firmware-black?style=flat-square&logo=espressif&logoColor=white" height="25"></a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/Racetrix/RaceRecord" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/🎨_Renderer-black?style=flat-square&logo=chart.js&logoColor=FF6384" height="25">
-    </a>
+    <a href="https://github.com/Racetrix/RaceRecord" style="text-decoration: none;"><img src="https://img.shields.io/badge/🎨_Renderer-black?style=flat-square&logo=chart.js&logoColor=FF6384" height="25"></a>
   </p>
 
   <br>
